@@ -48,7 +48,7 @@ const Home = () => {
                 </div>
                 <h3>{service.title}</h3>
                 <p>{service.description}</p>
-                <Link to="/contact" className="service-btn">
+                <Link to="/services" className="service-btn">
                   Apply Now
                 </Link>
               </div>

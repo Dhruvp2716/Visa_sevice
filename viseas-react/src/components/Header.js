@@ -30,10 +30,10 @@ function Header() {
           <div className="navbar-brand">Viseas</div>
           <div className="contact-info">
             <a className="contact_link1" href="tel:+011234567890">
-              <i className="fa fa-phone"></i> +01 1234567890
+              <i className="fa fa-phone"></i> +91 9574369999
             </a>
             <a className="contact_link2" href="mailto:viseaas5@gmail.com">
-              <i className="fa fa-envelope"></i> viseaas5@gmail.com
+              <i className="fa fa-envelope"></i> visaservices2716@gmail.com
             </a>
           </div>
         </div>

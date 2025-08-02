@@ -1,8 +1,8 @@
 const Razorpay = require('razorpay');
 
 const razorpay = new Razorpay({
-  key_id: 'rzp_test_agMxgzdJcrLUrP',
-  key_secret: 'itloOXEpGthqWFk7zNXqAv'
+  key_id: 'rzp_test_ssOvH5XrFlYeor',
+  key_secret: 'DPLAFEDW3tXAQk289yzuYGR2'
 });
 
 razorpay.orders.create({

@@ -12,11 +12,11 @@ const Contact = () => {
       <div className="contact-info-box">
         <div className="contact-info-item">
           <i className="fas fa-phone"></i>
-          <span>+01 123 456 7890</span>
+          <span>+91 9574369999</span>
         </div>
         <div className="contact-info-item">
           <i className="fas fa-envelope"></i>
-          <span>viseaas@gmail.com</span>
+          <span>visaservices2716@gmail.com</span>
         </div>
         <div className="contact-info-item">
           <i className="fas fa-map-marker-alt"></i>

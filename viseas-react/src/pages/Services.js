@@ -48,7 +48,7 @@ const Services = () => {
       const { amount, id: order_id, currency } = response.data;
 
       const options = {
-        key: 'rzp_test_agMxgzdJcrLUrP', // ✅ Replace with your Razorpay Key ID
+        key: 'rzp_test_ssOvH5XrFlYeor', // ✅ Replace with your Razorpay Key ID
         amount,
         currency,
         name: 'Viseas',
